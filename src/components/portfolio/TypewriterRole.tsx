@@ -13,7 +13,7 @@ export default function TypewriterRole() {
     const roles = [
       "Full Stack Developer",
       "Frontend Engineer",
-      "UI/IX Designer",
+      "UI/IX Designer & Developer",
       "Graphics Designer",
     ];
 
