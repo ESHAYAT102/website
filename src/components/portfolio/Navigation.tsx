@@ -3,6 +3,7 @@
 import { useTheme } from "@/components/ThemeProvider";
 import { Icon } from "@iconify/react";
 import { motion } from "framer-motion";
+import Link from "next/link";
 
 export default function Navigation() {
   const { theme, toggleTheme } = useTheme();
@@ -16,7 +17,7 @@ export default function Navigation() {
             animate={{ opacity: 1, x: 0 }}
             className="text-xl font-bold bg-gradient-to-r from-indigo-600 via-purple-600 to-violet-600 dark:from-indigo-400 dark:via-purple-400 dark:to-violet-400 bg-clip-text text-transparent"
           >
-            <a href="/">Eshayat</a>
+            <Link href="/">Eshayat</Link>
           </motion.div>
           <div className="flex items-center space-x-8">
             <div className="hidden md:flex items-center space-x-8">

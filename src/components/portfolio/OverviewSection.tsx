@@ -126,23 +126,23 @@ export default function OverviewSection() {
                   {/* Expanded About Content */}
                   <div className="space-y-3 md:space-y-4 border-t border-gray-200/50 dark:border-gray-700/50 pt-4 md:pt-6">
                     <p className="text-sm md:text-base text-gray-700 dark:text-gray-300 leading-relaxed">
-                      I'm Eshayat Al-Wasiu, a passionate frontend web developer
-                      and a designer. With 5 years of experience crafting
-                      digital experiences, I specialize in transforming ideas
-                      into engaging and functional websites. My skill set
+                      I&apos;m Eshayat Al-Wasiu, a passionate frontend web
+                      developer and a designer. With 5 years of experience
+                      crafting digital experiences, I specialize in transforming
+                      ideas into engaging and functional websites. My skill set
                       encompasses frontend development, web design, and graphics
                       design, allowing me to deliver comprehensive solutions
-                      tailored to my clients' needs. I'm providing service
-                      worldwide.
+                      tailored to my clients&apos; needs. I&apos;m providing
+                      service worldwide.
                     </p>
                     <p className="text-sm md:text-base text-gray-700 dark:text-gray-300 leading-relaxed">
-                      Currently, I'm focusing on improving my skills. I'm always
-                      eager to collaborate on new projects and explore
-                      innovative technologies and new ideas.
+                      Currently, I&apos;m focusing on improving my skills.
+                      I&apos;m always eager to collaborate on new projects and
+                      explore innovative technologies and new ideas.
                     </p>
                     <p className="text-sm md:text-base text-gray-700 dark:text-gray-300 leading-relaxed">
-                      I'm always open for new opportunities and collaborations.
-                      Let's bring your vision to life!
+                      I&apos;m always open for new opportunities and
+                      collaborations. Let&apos;s bring your vision to life!
                     </p>
                   </div>
 

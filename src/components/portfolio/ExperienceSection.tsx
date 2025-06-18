@@ -123,6 +123,7 @@ export default function ExperienceSection() {
                   >
                     <img
                       src={exp.companyIcon!}
+                      alt={`${exp.company} logo`}
                       className="text-white w-full h-full relative z-10"
                       width={40}
                       height={40}
