@@ -40,10 +40,3 @@ export default function RootLayout({
     </html>
   );
 }
-
-<Script
-  src="https://cloud.umami.is/script.js"
-  data-website-id="0e47b787-7278-4cad-b957-c8050c204a23"
-  strategy="afterInteractive"
-  defer
-/>;
